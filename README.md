@@ -14,7 +14,7 @@ No atual momento, estou me descobrindo na Programação!❤️
 ![PYTHON](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white) 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=caroolnascimento)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=delimagoncalves)
 
 ## Redes Sociais 🌍
 <div>
@@ -23,4 +23,4 @@ No atual momento, estou me descobrindo na Programação!❤️
 
 ### Visitantes 👀
 
-<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
+<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg"/>
