@@ -17,7 +17,7 @@ No atual momento, estou me descobrindo na Programação!❤️
 <div align="center">
   <a href="https://github.com/delimagoncalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delimagoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delimagoncales&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delimagoncalves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Redes Sociais 🌍
