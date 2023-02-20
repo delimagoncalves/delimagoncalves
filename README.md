@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Sou formado em Segurança da Informação, atualmente estou estudando alumas linguagens de programação.
+Sou formado em Segurança da Informação, atualmente estou estudando algumas linguagens de programação.
 
 ## Principais Tecnologias 💻
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
